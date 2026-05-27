@@ -1,0 +1,18 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Editor and local settings
+.vscode/
+.idea/
+
+# Cursor local metadata
+.cursor/
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.key
+credentials.json
